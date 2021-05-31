@@ -1,0 +1,19 @@
+{
+  "name": "my project",
+  "version": "1.0.0",
+  "description": "Cars& GraphQl",
+  "main": "server.js",
+  "scripts": {
+    "devmode": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
